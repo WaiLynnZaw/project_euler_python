@@ -1,3 +1,5 @@
+#ref - https://stackoverflow.com/questions/8982163/how-do-i-tell-python-to-convert-integers-into-words
+
 def numToWords(num, join=True):
     units = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
     teens = ['', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', \
